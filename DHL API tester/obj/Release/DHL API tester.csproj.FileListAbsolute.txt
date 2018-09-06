@@ -1,9 +1,0 @@
-C:\Projects\DHL API tester\DHL API tester\bin\Release\DHL API tester.dll
-C:\Projects\DHL API tester\DHL API tester\bin\Release\DHL API tester.pdb
-C:\Projects\DHL API tester\DHL API tester\bin\Release\DHLAPIBridge.dll
-C:\Projects\DHL API tester\DHL API tester\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Projects\DHL API tester\DHL API tester\bin\Release\DHLAPIBridge.pdb
-C:\Projects\DHL API tester\DHL API tester\obj\Release\DHL API tester.csprojResolveAssemblyReference.cache
-C:\Projects\DHL API tester\DHL API tester\obj\Release\DHL API tester.dll
-C:\Projects\DHL API tester\DHL API tester\obj\Release\DHL API tester.pdb
-C:\Projects\DHL API tester\DHL API tester\bin\Release\DHLAPIBridge.XmlSerializers.dll

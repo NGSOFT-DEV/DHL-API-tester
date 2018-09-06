@@ -1,8 +1,0 @@
-C:\Projects\DHL API tester\DHLAPIBridge\bin\Release\DHLAPIBridge.dll
-C:\Projects\DHL API tester\DHLAPIBridge\bin\Release\DHLAPIBridge.pdb
-C:\Projects\DHL API tester\DHLAPIBridge\obj\Release\DHLAPIBridge.dll
-C:\Projects\DHL API tester\DHLAPIBridge\obj\Release\DHLAPIBridge.pdb
-C:\Projects\DHL API tester\DHLAPIBridge\obj\Release\DHLAPIBridge.csprojResolveAssemblyReference.cache
-C:\Projects\DHL API tester\DHLAPIBridge\bin\Release\DHLAPIBridge.dll.config
-C:\Projects\DHL API tester\DHLAPIBridge\bin\Release\DHLAPIBridge.XmlSerializers.dll
-C:\Projects\DHL API tester\DHLAPIBridge\obj\Release\DHLAPIBridge.XmlSerializers.dll
