@@ -7,6 +7,9 @@ Following examples from [here](http://www.dhl.com/content/dam/downloads/g0/expre
 The API guide : version 5.0 - and reference using [DHL Express global web services developer guide 3.0.1](https://usermanual.wiki/Pdf/DHL20Express20Global20Web20Services2020Developer20Guide20V31.1018236549.pdf)
 
 ## How to build
+### Prerequisits : VS2017
+### Open solution file
+### Build and run
 
 ## Tests
 
